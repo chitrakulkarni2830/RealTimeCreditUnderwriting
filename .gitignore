@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Build and Distribution
+build/
+dist/
+*.spec
+
+# Data and Reports
+reports/
+data/credit_data.db
+
+# OS specific
+.DS_Store

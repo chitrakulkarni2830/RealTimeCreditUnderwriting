@@ -1,0 +1,7 @@
+pandas
+nicegui
+plotly
+fpdf2
+uvicorn
+pyinstaller
+pywebview

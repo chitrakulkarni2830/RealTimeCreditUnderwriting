@@ -1,0 +1,2102 @@
+[
+  {
+    "user_id": 1,
+    "date": "2025-09-26",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 31
+  },
+  {
+    "user_id": 1,
+    "date": "2026-01-29",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 73
+  },
+  {
+    "user_id": 1,
+    "date": "2025-10-13",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 28
+  },
+  {
+    "user_id": 1,
+    "date": "2025-11-02",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 24
+  },
+  {
+    "user_id": 1,
+    "date": "2025-09-07",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 76
+  },
+  {
+    "user_id": 2,
+    "date": "2025-11-10",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 90
+  },
+  {
+    "user_id": 2,
+    "date": "2025-09-23",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 52
+  },
+  {
+    "user_id": 2,
+    "date": "2025-10-17",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 98
+  },
+  {
+    "user_id": 2,
+    "date": "2025-12-29",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 100
+  },
+  {
+    "user_id": 2,
+    "date": "2026-01-13",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 78
+  },
+  {
+    "user_id": 3,
+    "date": "2026-02-22",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 49
+  },
+  {
+    "user_id": 3,
+    "date": "2025-11-23",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 50
+  },
+  {
+    "user_id": 3,
+    "date": "2025-12-10",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 59
+  },
+  {
+    "user_id": 3,
+    "date": "2025-12-10",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 100
+  },
+  {
+    "user_id": 3,
+    "date": "2025-10-25",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 78
+  },
+  {
+    "user_id": 4,
+    "date": "2025-09-30",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 33
+  },
+  {
+    "user_id": 4,
+    "date": "2026-01-30",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 24
+  },
+  {
+    "user_id": 4,
+    "date": "2025-10-06",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 63
+  },
+  {
+    "user_id": 4,
+    "date": "2025-10-11",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 24
+  },
+  {
+    "user_id": 4,
+    "date": "2026-01-14",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 92
+  },
+  {
+    "user_id": 5,
+    "date": "2025-11-26",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 65
+  },
+  {
+    "user_id": 5,
+    "date": "2025-11-09",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 58
+  },
+  {
+    "user_id": 5,
+    "date": "2026-01-12",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 95
+  },
+  {
+    "user_id": 5,
+    "date": "2026-02-09",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 72
+  },
+  {
+    "user_id": 5,
+    "date": "2025-09-30",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 62
+  },
+  {
+    "user_id": 6,
+    "date": "2025-12-27",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 68
+  },
+  {
+    "user_id": 6,
+    "date": "2026-01-04",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 61
+  },
+  {
+    "user_id": 6,
+    "date": "2025-09-17",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 87
+  },
+  {
+    "user_id": 6,
+    "date": "2026-01-03",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 53
+  },
+  {
+    "user_id": 6,
+    "date": "2025-10-21",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 82
+  },
+  {
+    "user_id": 7,
+    "date": "2026-01-22",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 93
+  },
+  {
+    "user_id": 7,
+    "date": "2025-12-14",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 85
+  },
+  {
+    "user_id": 7,
+    "date": "2025-09-17",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 50
+  },
+  {
+    "user_id": 7,
+    "date": "2025-10-24",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 40
+  },
+  {
+    "user_id": 7,
+    "date": "2025-11-04",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 66
+  },
+  {
+    "user_id": 8,
+    "date": "2025-09-08",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 34
+  },
+  {
+    "user_id": 8,
+    "date": "2025-10-20",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 70
+  },
+  {
+    "user_id": 8,
+    "date": "2026-01-02",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 62
+  },
+  {
+    "user_id": 8,
+    "date": "2026-02-13",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 28
+  },
+  {
+    "user_id": 8,
+    "date": "2025-10-04",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 51
+  },
+  {
+    "user_id": 9,
+    "date": "2026-02-06",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 58
+  },
+  {
+    "user_id": 9,
+    "date": "2025-08-31",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 68
+  },
+  {
+    "user_id": 9,
+    "date": "2025-10-17",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 98
+  },
+  {
+    "user_id": 9,
+    "date": "2026-01-21",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 44
+  },
+  {
+    "user_id": 9,
+    "date": "2025-09-18",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 41
+  },
+  {
+    "user_id": 10,
+    "date": "2025-12-06",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 45
+  },
+  {
+    "user_id": 10,
+    "date": "2025-09-18",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 49
+  },
+  {
+    "user_id": 10,
+    "date": "2025-12-30",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 84
+  },
+  {
+    "user_id": 10,
+    "date": "2025-12-09",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 82
+  },
+  {
+    "user_id": 10,
+    "date": "2025-10-24",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 59
+  },
+  {
+    "user_id": 11,
+    "date": "2025-09-26",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 903
+  },
+  {
+    "user_id": 11,
+    "date": "2025-09-20",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 71
+  },
+  {
+    "user_id": 11,
+    "date": "2025-10-07",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 207
+  },
+  {
+    "user_id": 11,
+    "date": "2025-09-24",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 46
+  },
+  {
+    "user_id": 11,
+    "date": "2026-01-16",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 78
+  },
+  {
+    "user_id": 11,
+    "date": "2025-12-21",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 465
+  },
+  {
+    "user_id": 11,
+    "date": "2025-12-13",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 819
+  },
+  {
+    "user_id": 11,
+    "date": "2026-01-20",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 537
+  },
+  {
+    "user_id": 11,
+    "date": "2025-11-29",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 911
+  },
+  {
+    "user_id": 11,
+    "date": "2025-09-24",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 497
+  },
+  {
+    "user_id": 12,
+    "date": "2025-10-03",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 41
+  },
+  {
+    "user_id": 12,
+    "date": "2025-10-28",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 73
+  },
+  {
+    "user_id": 12,
+    "date": "2025-09-05",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 162
+  },
+  {
+    "user_id": 12,
+    "date": "2025-11-05",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 166
+  },
+  {
+    "user_id": 12,
+    "date": "2026-02-08",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 44
+  },
+  {
+    "user_id": 12,
+    "date": "2025-09-16",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 923
+  },
+  {
+    "user_id": 12,
+    "date": "2025-09-02",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 886
+  },
+  {
+    "user_id": 12,
+    "date": "2025-08-28",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 45
+  },
+  {
+    "user_id": 12,
+    "date": "2026-01-18",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 588
+  },
+  {
+    "user_id": 12,
+    "date": "2026-02-09",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 648
+  },
+  {
+    "user_id": 13,
+    "date": "2026-02-10",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 571
+  },
+  {
+    "user_id": 13,
+    "date": "2026-01-24",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 783
+  },
+  {
+    "user_id": 13,
+    "date": "2026-02-18",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 26
+  },
+  {
+    "user_id": 13,
+    "date": "2025-12-20",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 75
+  },
+  {
+    "user_id": 13,
+    "date": "2025-12-30",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 931
+  },
+  {
+    "user_id": 13,
+    "date": "2025-10-19",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 856
+  },
+  {
+    "user_id": 13,
+    "date": "2025-10-05",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 610
+  },
+  {
+    "user_id": 13,
+    "date": "2026-02-12",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 541
+  },
+  {
+    "user_id": 13,
+    "date": "2026-01-14",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 496
+  },
+  {
+    "user_id": 13,
+    "date": "2026-02-02",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 80
+  },
+  {
+    "user_id": 14,
+    "date": "2025-09-26",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 66
+  },
+  {
+    "user_id": 14,
+    "date": "2025-09-27",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 55
+  },
+  {
+    "user_id": 14,
+    "date": "2025-11-10",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 785
+  },
+  {
+    "user_id": 14,
+    "date": "2025-12-11",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 473
+  },
+  {
+    "user_id": 14,
+    "date": "2025-12-03",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 842
+  },
+  {
+    "user_id": 14,
+    "date": "2025-09-12",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 65
+  },
+  {
+    "user_id": 14,
+    "date": "2025-11-20",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 36
+  },
+  {
+    "user_id": 14,
+    "date": "2025-08-29",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 43
+  },
+  {
+    "user_id": 14,
+    "date": "2025-09-01",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 549
+  },
+  {
+    "user_id": 14,
+    "date": "2026-02-14",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 971
+  },
+  {
+    "user_id": 15,
+    "date": "2026-01-17",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 184
+  },
+  {
+    "user_id": 15,
+    "date": "2026-02-18",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 386
+  },
+  {
+    "user_id": 15,
+    "date": "2025-10-07",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 88
+  },
+  {
+    "user_id": 15,
+    "date": "2025-09-02",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 414
+  },
+  {
+    "user_id": 15,
+    "date": "2025-12-31",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 328
+  },
+  {
+    "user_id": 15,
+    "date": "2025-09-12",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 534
+  },
+  {
+    "user_id": 15,
+    "date": "2025-12-05",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 444
+  },
+  {
+    "user_id": 15,
+    "date": "2025-10-19",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 320
+  },
+  {
+    "user_id": 15,
+    "date": "2025-09-14",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 66
+  },
+  {
+    "user_id": 15,
+    "date": "2026-02-22",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 87
+  },
+  {
+    "user_id": 16,
+    "date": "2026-02-02",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 45
+  },
+  {
+    "user_id": 16,
+    "date": "2025-11-03",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 358
+  },
+  {
+    "user_id": 16,
+    "date": "2026-01-02",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 467
+  },
+  {
+    "user_id": 16,
+    "date": "2025-11-29",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 41
+  },
+  {
+    "user_id": 16,
+    "date": "2026-01-24",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 97
+  },
+  {
+    "user_id": 16,
+    "date": "2025-12-14",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 984
+  },
+  {
+    "user_id": 16,
+    "date": "2026-01-09",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 94
+  },
+  {
+    "user_id": 16,
+    "date": "2025-12-01",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 708
+  },
+  {
+    "user_id": 16,
+    "date": "2025-10-17",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 38
+  },
+  {
+    "user_id": 16,
+    "date": "2025-09-06",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 152
+  },
+  {
+    "user_id": 17,
+    "date": "2026-01-21",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 454
+  },
+  {
+    "user_id": 17,
+    "date": "2025-09-22",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 26
+  },
+  {
+    "user_id": 17,
+    "date": "2026-01-02",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 260
+  },
+  {
+    "user_id": 17,
+    "date": "2026-02-15",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 733
+  },
+  {
+    "user_id": 17,
+    "date": "2025-11-21",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 878
+  },
+  {
+    "user_id": 17,
+    "date": "2025-10-24",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 49
+  },
+  {
+    "user_id": 17,
+    "date": "2026-02-17",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 815
+  },
+  {
+    "user_id": 17,
+    "date": "2026-02-08",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 630
+  },
+  {
+    "user_id": 17,
+    "date": "2025-10-03",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 266
+  },
+  {
+    "user_id": 17,
+    "date": "2026-01-11",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 98
+  },
+  {
+    "user_id": 18,
+    "date": "2025-12-31",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 283
+  },
+  {
+    "user_id": 18,
+    "date": "2025-09-21",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 625
+  },
+  {
+    "user_id": 18,
+    "date": "2025-11-20",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 451
+  },
+  {
+    "user_id": 18,
+    "date": "2025-09-26",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 78
+  },
+  {
+    "user_id": 18,
+    "date": "2026-02-15",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 822
+  },
+  {
+    "user_id": 18,
+    "date": "2025-09-02",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 510
+  },
+  {
+    "user_id": 18,
+    "date": "2025-10-06",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 803
+  },
+  {
+    "user_id": 18,
+    "date": "2025-09-26",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 969
+  },
+  {
+    "user_id": 18,
+    "date": "2025-09-01",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 992
+  },
+  {
+    "user_id": 18,
+    "date": "2025-11-02",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 373
+  },
+  {
+    "user_id": 19,
+    "date": "2025-10-10",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 102
+  },
+  {
+    "user_id": 19,
+    "date": "2025-10-18",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 73
+  },
+  {
+    "user_id": 19,
+    "date": "2025-11-21",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 48
+  },
+  {
+    "user_id": 19,
+    "date": "2026-01-16",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 602
+  },
+  {
+    "user_id": 19,
+    "date": "2025-12-04",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 90
+  },
+  {
+    "user_id": 19,
+    "date": "2026-02-19",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 153
+  },
+  {
+    "user_id": 19,
+    "date": "2025-11-16",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 309
+  },
+  {
+    "user_id": 19,
+    "date": "2026-01-15",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 127
+  },
+  {
+    "user_id": 19,
+    "date": "2025-12-20",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 163
+  },
+  {
+    "user_id": 19,
+    "date": "2026-02-03",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 234
+  },
+  {
+    "user_id": 20,
+    "date": "2026-02-09",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 695
+  },
+  {
+    "user_id": 20,
+    "date": "2025-10-30",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 64
+  },
+  {
+    "user_id": 20,
+    "date": "2025-11-22",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 66
+  },
+  {
+    "user_id": 20,
+    "date": "2025-10-23",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 27
+  },
+  {
+    "user_id": 20,
+    "date": "2025-12-28",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 540
+  },
+  {
+    "user_id": 20,
+    "date": "2025-09-18",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 869
+  },
+  {
+    "user_id": 20,
+    "date": "2026-01-20",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 655
+  },
+  {
+    "user_id": 20,
+    "date": "2026-01-24",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 466
+  },
+  {
+    "user_id": 20,
+    "date": "2026-02-16",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 431
+  },
+  {
+    "user_id": 20,
+    "date": "2025-10-11",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 751
+  },
+  {
+    "user_id": 21,
+    "date": "2025-09-27",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 22
+  },
+  {
+    "user_id": 21,
+    "date": "2025-11-25",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 76
+  },
+  {
+    "user_id": 21,
+    "date": "2026-01-19",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 58
+  },
+  {
+    "user_id": 21,
+    "date": "2025-10-28",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 99
+  },
+  {
+    "user_id": 21,
+    "date": "2025-11-13",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 50
+  },
+  {
+    "user_id": 22,
+    "date": "2025-10-01",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 21
+  },
+  {
+    "user_id": 22,
+    "date": "2026-02-19",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 42
+  },
+  {
+    "user_id": 22,
+    "date": "2025-10-19",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 31
+  },
+  {
+    "user_id": 22,
+    "date": "2025-12-10",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 36
+  },
+  {
+    "user_id": 22,
+    "date": "2025-10-23",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 90
+  },
+  {
+    "user_id": 23,
+    "date": "2025-12-02",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 89
+  },
+  {
+    "user_id": 23,
+    "date": "2025-09-24",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 118
+  },
+  {
+    "user_id": 23,
+    "date": "2025-12-10",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 49
+  },
+  {
+    "user_id": 23,
+    "date": "2025-11-07",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 85
+  },
+  {
+    "user_id": 23,
+    "date": "2026-01-09",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 204
+  },
+  {
+    "user_id": 24,
+    "date": "2026-01-21",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 68
+  },
+  {
+    "user_id": 24,
+    "date": "2026-02-11",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 35
+  },
+  {
+    "user_id": 24,
+    "date": "2025-11-09",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 95
+  },
+  {
+    "user_id": 24,
+    "date": "2026-02-21",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 78
+  },
+  {
+    "user_id": 24,
+    "date": "2026-01-13",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 50
+  },
+  {
+    "user_id": 25,
+    "date": "2025-10-25",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 87
+  },
+  {
+    "user_id": 25,
+    "date": "2026-01-17",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 80
+  },
+  {
+    "user_id": 25,
+    "date": "2026-02-23",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 56
+  },
+  {
+    "user_id": 25,
+    "date": "2026-01-22",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 90
+  },
+  {
+    "user_id": 25,
+    "date": "2025-10-02",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 117
+  },
+  {
+    "user_id": 26,
+    "date": "2025-10-28",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 187
+  },
+  {
+    "user_id": 26,
+    "date": "2026-01-21",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 65
+  },
+  {
+    "user_id": 26,
+    "date": "2025-09-03",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 35
+  },
+  {
+    "user_id": 26,
+    "date": "2026-02-19",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 119
+  },
+  {
+    "user_id": 26,
+    "date": "2025-10-01",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 28
+  },
+  {
+    "user_id": 27,
+    "date": "2025-09-29",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 86
+  },
+  {
+    "user_id": 27,
+    "date": "2025-09-15",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 61
+  },
+  {
+    "user_id": 27,
+    "date": "2026-02-09",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 183
+  },
+  {
+    "user_id": 27,
+    "date": "2025-10-22",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 244
+  },
+  {
+    "user_id": 27,
+    "date": "2025-09-20",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 54
+  },
+  {
+    "user_id": 28,
+    "date": "2025-09-25",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 75
+  },
+  {
+    "user_id": 28,
+    "date": "2026-01-20",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 62
+  },
+  {
+    "user_id": 28,
+    "date": "2025-09-29",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 91
+  },
+  {
+    "user_id": 28,
+    "date": "2025-11-27",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 75
+  },
+  {
+    "user_id": 28,
+    "date": "2025-09-22",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 148
+  },
+  {
+    "user_id": 29,
+    "date": "2026-02-20",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 83
+  },
+  {
+    "user_id": 29,
+    "date": "2025-11-18",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 79
+  },
+  {
+    "user_id": 29,
+    "date": "2025-12-28",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 90
+  },
+  {
+    "user_id": 29,
+    "date": "2025-11-04",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 195
+  },
+  {
+    "user_id": 29,
+    "date": "2025-10-21",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 147
+  },
+  {
+    "user_id": 30,
+    "date": "2025-09-27",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 43
+  },
+  {
+    "user_id": 30,
+    "date": "2025-12-01",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 206
+  },
+  {
+    "user_id": 30,
+    "date": "2025-09-06",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 97
+  },
+  {
+    "user_id": 30,
+    "date": "2025-11-27",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 51
+  },
+  {
+    "user_id": 30,
+    "date": "2025-09-13",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 95
+  },
+  {
+    "user_id": 31,
+    "date": "2025-09-25",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 51
+  },
+  {
+    "user_id": 31,
+    "date": "2025-10-18",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 30
+  },
+  {
+    "user_id": 31,
+    "date": "2025-09-22",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 289
+  },
+  {
+    "user_id": 31,
+    "date": "2025-10-07",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 121
+  },
+  {
+    "user_id": 31,
+    "date": "2025-10-23",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 26
+  },
+  {
+    "user_id": 32,
+    "date": "2025-10-28",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 130
+  },
+  {
+    "user_id": 32,
+    "date": "2025-11-20",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 95
+  },
+  {
+    "user_id": 32,
+    "date": "2025-10-06",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 225
+  },
+  {
+    "user_id": 32,
+    "date": "2026-02-08",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 31
+  },
+  {
+    "user_id": 32,
+    "date": "2026-01-04",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 26
+  },
+  {
+    "user_id": 33,
+    "date": "2026-01-12",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 43
+  },
+  {
+    "user_id": 33,
+    "date": "2025-08-29",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 129
+  },
+  {
+    "user_id": 33,
+    "date": "2025-11-16",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 98
+  },
+  {
+    "user_id": 33,
+    "date": "2025-09-04",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 46
+  },
+  {
+    "user_id": 33,
+    "date": "2025-09-29",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 67
+  },
+  {
+    "user_id": 34,
+    "date": "2026-02-10",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 84
+  },
+  {
+    "user_id": 34,
+    "date": "2025-10-27",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 55
+  },
+  {
+    "user_id": 34,
+    "date": "2025-09-08",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 232
+  },
+  {
+    "user_id": 34,
+    "date": "2025-09-15",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 30
+  },
+  {
+    "user_id": 34,
+    "date": "2025-10-02",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 26
+  },
+  {
+    "user_id": 35,
+    "date": "2025-11-15",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 66
+  },
+  {
+    "user_id": 35,
+    "date": "2025-09-16",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 35
+  },
+  {
+    "user_id": 35,
+    "date": "2025-10-24",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 126
+  },
+  {
+    "user_id": 35,
+    "date": "2025-10-15",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 84
+  },
+  {
+    "user_id": 35,
+    "date": "2025-10-03",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 60
+  },
+  {
+    "user_id": 36,
+    "date": "2025-11-06",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 39
+  },
+  {
+    "user_id": 36,
+    "date": "2025-09-13",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 28
+  },
+  {
+    "user_id": 36,
+    "date": "2026-01-01",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 66
+  },
+  {
+    "user_id": 36,
+    "date": "2025-10-19",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 247
+  },
+  {
+    "user_id": 36,
+    "date": "2025-12-29",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 63
+  },
+  {
+    "user_id": 37,
+    "date": "2026-01-14",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 53
+  },
+  {
+    "user_id": 37,
+    "date": "2025-11-14",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 106
+  },
+  {
+    "user_id": 37,
+    "date": "2026-01-19",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 95
+  },
+  {
+    "user_id": 37,
+    "date": "2026-02-12",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 73
+  },
+  {
+    "user_id": 37,
+    "date": "2025-12-14",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 70
+  },
+  {
+    "user_id": 38,
+    "date": "2025-12-04",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 283
+  },
+  {
+    "user_id": 38,
+    "date": "2025-10-09",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 78
+  },
+  {
+    "user_id": 38,
+    "date": "2025-09-19",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 76
+  },
+  {
+    "user_id": 38,
+    "date": "2025-09-23",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 61
+  },
+  {
+    "user_id": 38,
+    "date": "2025-11-13",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 64
+  },
+  {
+    "user_id": 39,
+    "date": "2025-11-14",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 85
+  },
+  {
+    "user_id": 39,
+    "date": "2025-09-08",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 162
+  },
+  {
+    "user_id": 39,
+    "date": "2025-12-08",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 194
+  },
+  {
+    "user_id": 39,
+    "date": "2026-01-01",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 42
+  },
+  {
+    "user_id": 39,
+    "date": "2025-10-05",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 68
+  },
+  {
+    "user_id": 40,
+    "date": "2025-09-13",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 36
+  },
+  {
+    "user_id": 40,
+    "date": "2026-01-10",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 49
+  },
+  {
+    "user_id": 40,
+    "date": "2025-10-01",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 96
+  },
+  {
+    "user_id": 40,
+    "date": "2025-11-08",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 78
+  },
+  {
+    "user_id": 40,
+    "date": "2026-02-05",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 89
+  },
+  {
+    "user_id": 41,
+    "date": "2025-10-28",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 131
+  },
+  {
+    "user_id": 41,
+    "date": "2025-08-27",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 60
+  },
+  {
+    "user_id": 41,
+    "date": "2025-10-20",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 89
+  },
+  {
+    "user_id": 41,
+    "date": "2026-02-15",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 51
+  },
+  {
+    "user_id": 41,
+    "date": "2026-01-18",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 182
+  },
+  {
+    "user_id": 42,
+    "date": "2026-02-15",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 76
+  },
+  {
+    "user_id": 42,
+    "date": "2025-10-12",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 81
+  },
+  {
+    "user_id": 42,
+    "date": "2026-01-24",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 49
+  },
+  {
+    "user_id": 42,
+    "date": "2025-10-25",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 47
+  },
+  {
+    "user_id": 42,
+    "date": "2025-11-13",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 45
+  },
+  {
+    "user_id": 43,
+    "date": "2025-09-02",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 44
+  },
+  {
+    "user_id": 43,
+    "date": "2025-12-27",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 79
+  },
+  {
+    "user_id": 43,
+    "date": "2025-09-11",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 229
+  },
+  {
+    "user_id": 43,
+    "date": "2026-01-20",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 59
+  },
+  {
+    "user_id": 43,
+    "date": "2025-10-15",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 85
+  },
+  {
+    "user_id": 44,
+    "date": "2025-10-15",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 77
+  },
+  {
+    "user_id": 44,
+    "date": "2025-11-22",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 99
+  },
+  {
+    "user_id": 44,
+    "date": "2025-09-07",
+    "category": "Luxury",
+    "item": "Designer Clothes",
+    "amount": 251
+  },
+  {
+    "user_id": 44,
+    "date": "2025-10-12",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 74
+  },
+  {
+    "user_id": 44,
+    "date": "2025-11-11",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 97
+  },
+  {
+    "user_id": 45,
+    "date": "2025-12-24",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 47
+  },
+  {
+    "user_id": 45,
+    "date": "2025-10-26",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 64
+  },
+  {
+    "user_id": 45,
+    "date": "2025-11-13",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 70
+  },
+  {
+    "user_id": 45,
+    "date": "2025-10-20",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 65
+  },
+  {
+    "user_id": 45,
+    "date": "2025-11-19",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 60
+  },
+  {
+    "user_id": 46,
+    "date": "2025-09-27",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 72
+  },
+  {
+    "user_id": 46,
+    "date": "2025-11-20",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 45
+  },
+  {
+    "user_id": 46,
+    "date": "2026-02-05",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 57
+  },
+  {
+    "user_id": 46,
+    "date": "2026-02-18",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 50
+  },
+  {
+    "user_id": 46,
+    "date": "2025-11-08",
+    "category": "Luxury",
+    "item": "Gourmet Dining",
+    "amount": 69
+  },
+  {
+    "user_id": 47,
+    "date": "2026-02-12",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 50
+  },
+  {
+    "user_id": 47,
+    "date": "2025-10-29",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 77
+  },
+  {
+    "user_id": 47,
+    "date": "2025-11-27",
+    "category": "Essential",
+    "item": "Groceries",
+    "amount": 32
+  },
+  {
+    "user_id": 47,
+    "date": "2026-02-15",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 38
+  },
+  {
+    "user_id": 47,
+    "date": "2025-09-10",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 76
+  },
+  {
+    "user_id": 48,
+    "date": "2025-09-18",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 134
+  },
+  {
+    "user_id": 48,
+    "date": "2026-02-19",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 37
+  },
+  {
+    "user_id": 48,
+    "date": "2025-11-26",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 260
+  },
+  {
+    "user_id": 48,
+    "date": "2026-02-20",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 57
+  },
+  {
+    "user_id": 48,
+    "date": "2026-01-31",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 275
+  },
+  {
+    "user_id": 49,
+    "date": "2026-01-22",
+    "category": "Essential",
+    "item": "Utilities",
+    "amount": 77
+  },
+  {
+    "user_id": 49,
+    "date": "2026-01-12",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 25
+  },
+  {
+    "user_id": 49,
+    "date": "2025-11-20",
+    "category": "Luxury",
+    "item": "Travel",
+    "amount": 212
+  },
+  {
+    "user_id": 49,
+    "date": "2025-11-22",
+    "category": "Luxury",
+    "item": "Electronics",
+    "amount": 242
+  },
+  {
+    "user_id": 49,
+    "date": "2026-02-02",
+    "category": "Essential",
+    "item": "Insurance",
+    "amount": 81
+  },
+  {
+    "user_id": 50,
+    "date": "2026-01-05",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 64
+  },
+  {
+    "user_id": 50,
+    "date": "2025-12-15",
+    "category": "Luxury",
+    "item": "Subscription",
+    "amount": 147
+  },
+  {
+    "user_id": 50,
+    "date": "2025-12-31",
+    "category": "Essential",
+    "item": "Rent",
+    "amount": 32
+  },
+  {
+    "user_id": 50,
+    "date": "2025-09-26",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 78
+  },
+  {
+    "user_id": 50,
+    "date": "2025-11-27",
+    "category": "Essential",
+    "item": "Pharmacy",
+    "amount": 81
+  }
+]
