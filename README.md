@@ -25,7 +25,7 @@
 
 ## 🎥 Live Demo
 
-![Live Demo](assets/live_demo.webp)
+![Live Demo](https://raw.githubusercontent.com/chitrakulkarni2830/RealTimeCreditUnderwriting/main/assets/live_demo.webp)
 > *An automated, live walkthrough of the AI Agent generating a credit decision in real-time. In the competitive tech market, presenting a live dashboard is a massive differentiator.*
 
 ## 📂 Project Structure
