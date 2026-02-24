@@ -12,7 +12,7 @@
 
 *   **🤖 Multi-Agent Logic**: Separate agents for Data Aggregation, Behavioral Analysis, and Senior Underwriting.
 *   **📊 Interactive Dashboard**: A premium **NiceGUI** web interface (100% Python) for real-time assessments and visual analysis.
-*   **📈 Hybrid Risk Model**: Combines qualitative AI reasoning with a mathematical 0-100 risk score.
+*   **📈 Hybrid Risk Model**: Combines qualitative AI reasoning with a mathematical 0-100 risk score. ([Read the Feature Engineering Docs](docs/feature_engineering.md))
 *   **📄 Professional PDF Audits**: Export decision summaries as branded, professional PDF reports.
 *   **🗄️ SQL Data Layer**: Move beyond flat files with a structured **SQLite** database (`data/credit_data.db`).
 *   **💰 100% Free Tier**: Includes a standalone simulator to demonstrate the full logic without any API keys.
@@ -22,6 +22,11 @@
 | Risk Scoring | Behavioral Analytics |
 | :---: | :---: |
 | ![Risk Score](assets/risk_score_viz.png) | ![Behavioral Analytics](assets/behavioral_analytics.png) |
+
+## 🎥 Live Demo
+
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](#link-to-your-demo-video-here)
+> *A live walkthrough of the AI Agent generating a credit decision in real-time. In the competitive tech market, presenting a live dashboard is a massive differentiator.*
 
 ## 📂 Project Structure
 
