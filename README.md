@@ -34,9 +34,11 @@
 │   │   ├── scoring.py   # 0-100 Mathematical Score
 │   │   └── report_gen.py # PDF Generator
 │   └── dashboard.py     # INTERACTIVE WEB UI (NiceGUI)
+├── scripts/             # Build and Test Scripts (build_native.py)
+├── docs/                # Project Documentation & SQL Portfolio
 ├── assets/              # README Visuals & Assets
 ├── data/                # SQLite & CSV Data Sources
-├── reports/             # Generated PDF Audit Folders
+├── outputs/             # Generated PDF Audit Folders
 └── main.py              # CLI Entry Point
 ```
 
