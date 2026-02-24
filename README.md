@@ -25,8 +25,8 @@
 
 ## 🎥 Live Demo
 
-![Live Demo](https://raw.githubusercontent.com/chitrakulkarni2830/RealTimeCreditUnderwriting/main/assets/live_demo.webp)
-> *An automated, live walkthrough of the AI Agent generating a credit decision in real-time. In the competitive tech market, presenting a live dashboard is a massive differentiator.*
+[![Watch the Demo](https://raw.githubusercontent.com/chitrakulkarni2830/RealTimeCreditUnderwriting/main/assets/demo_thumbnail.png)](https://raw.githubusercontent.com/chitrakulkarni2830/RealTimeCreditUnderwriting/main/assets/live_demo.webp)
+> *Click the thumbnail above to watch the animated AI Agentic Assessment in real-time. This live dashboard demo is a massive differentiator for data analyst portfolios.*
 
 ## 📂 Project Structure
 
