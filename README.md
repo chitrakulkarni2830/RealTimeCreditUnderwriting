@@ -25,8 +25,8 @@
 
 ## 🎥 Live Demo
 
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](#link-to-your-demo-video-here)
-> *A live walkthrough of the AI Agent generating a credit decision in real-time. In the competitive tech market, presenting a live dashboard is a massive differentiator.*
+![Live Demo](assets/live_demo.webp)
+> *An automated, live walkthrough of the AI Agent generating a credit decision in real-time. In the competitive tech market, presenting a live dashboard is a massive differentiator.*
 
 ## 📂 Project Structure
 
